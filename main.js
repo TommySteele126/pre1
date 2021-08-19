@@ -120,3 +120,4 @@ home.addEventListener('click',hideCart); // to hide the cart
 
 
 
+
