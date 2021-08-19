@@ -158,7 +158,7 @@ color: rgb(24, 24, 43);
         border-radius: 50%;
     
         left: 300px;
-        top: -50;
+        top: -70px;
         
     
     
@@ -169,10 +169,11 @@ color: rgb(24, 24, 43);
     height: 4.2rem;
     position: relative;
     border-radius: 50%;
-    top: -68px;
+    top: 5px;
     margin: auto;
     text-align: center;
-    left: 100px;
+    
+    
     
     
     }
@@ -185,5 +186,63 @@ color: rgb(24, 24, 43);
     text-align: center;
     color: rgb(24, 24, 43);
     }
+
+    #categories{
+     
+        margin: 0.5rem 0;
+        display: flex;
+        padding: 0.5rem 0.3rem ;
+        background:rgb(255, 255, 255);
+        top: 58px;
+        position: relative;
+        height: 117px;
+        
+        }
+        .brand3{ 
+            width: 4rem;
+            text-align: center;
+            margin-left: 1rem;
+            cursor: pointer;
+        
+        
+        
+        }
+        
+        .img-container3{
+            width: 4.7rem;
+            height: 4.8rem;
+            position: relative;
+            background: rgb(136, 173, 243);
+            border-radius: 50%;
+        
+            left: 600px;
+            top: -140px;
+            
+        
+        
+        
+        }
+        
+        .brand-img3{
+        height: 4.2rem;
+        position: relative;
+        border-radius: 50%;
+        top: 5px;
+        margin: auto;
+        text-align: center;
+        
+        
+        
+        
+        }
+        
+        #brand-name3{
+        font-family: sans-serif;
+        text-transform: capitalize;
+        top: 2.5px; 
+        margin: 0.6rem;
+        text-align: center;
+        color: rgb(24, 24, 43);
+        }
     
 

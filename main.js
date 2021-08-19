@@ -1,8 +1,8 @@
 const data = [
   {
     id: "",
-    img: "",
-    name: "",
+    img: "hero.jpg",
+    name: "Deku",
     save: "",
     delivery: "In 3 - 4 days",
     ItemInCart: false,
@@ -111,6 +111,11 @@ var getId;
 
 var home = document.getElementsById('home');
 home.addEventListener('click',hideCart); // to hide the cart 
+
+
+
+
+
 
 
 
