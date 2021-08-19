@@ -1,74 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="foodmarch.css">
-    
-</head>
-<body>
-<div class="container">
-<h1>Food March
- <div style="float: right; cursor: pointer;">
- <span class="glyphicon glyphicon-shopping-cart my-cart-icon">
- <span class= "badge badge-notify my-cart-badge">
-
- </span>
-
- </span>
-
-</div>
-
-</h1>
- <button type="select a Newproduct" name="select a Newproduct" id="select a Newproduct">
-select a Newproduct
-</button>
-
-<div class="row">
-<div class="col-md-3 center">
-    <img src="soulfood.jpg"  width="220" height="220" alt="">
-    <br><br>
-    product 1 - <strong>15$</strong>
-    <br><br>
-    <button class="btn btn-danger my-cart-btn" data-="1"data-name="product 1" 
-     data-summary="summary 1" data-price="20"data-quantity="1" data-image="soulfood.jpg">
-    
-     add to cart
-    </button>
-    <a href="" class="btn btn-info">Details</a>
-
- </div>
-
-
-</div>
-
-
-<div class="row2">
-    <div class="col-md-3 text-center">
-        <img src="pizza.jpg"  width="220" height="220" alt="">
-        <br><br>
-        product 2 - <strong>25$</strong>
-        <br><br>
-        <button class="btn btn-danger my-cart-btn" data-="2"data-name="product 2" 
-         data-summary="summary 2" data-price="20"data-quantity="2" data-image="pizza.jpg">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="hoodie.css" />
+  </head>
+  <body>
+    <nav>
+      <div class="nav-responsive">
+        <img src="/weeb.jpg" alt="img" class="logo" id="logo" />
+        <div class="nav-search">
+          <a href="#"><i class="fa fa-search" id="find"></i> </a>
+          <input type="text" id="search" placeholder="search" />
+        </div>
+        <div class="access"> 
         
-         add to cart
-        </button>
-        <a href="" class="btn btn-info">Details</a>
+        </div>
+        <a href="#" id="notification"><i class="fa fa-bell"> </i></a>
+        <a href="#" id="cart"><i class="fa fa-shopping-cart"> </i></a>
+        <a href="#" id="bars"><i class="fa  fa-bars"> </i></a>
+        <a href="#" id="account"><i class="fa fa-user-circle-o"> </i></a>
+
+      </div>
+    </nav>
+
+    <div id="categories">
+        <div class="brand">
+            <div class="img-container">
+            <img src="/hero.jpg" alt="img" class="brand-img" >
+            <h4 id="brand-name"; > Deku  </h4>
+
+             
+            </div>
+            <div class="brand2">
+                <div class="img-container2">
+                <img src="/hero.jpg" alt="img2" class="brand-img2" >
+                <h4 id="brand-name2"; > Deku  </h4>
     
-
-        
-
-
-
-
-
-</div>
-
-
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</body>
+                 
+                </div>
+        </div>
+    </div>
+  </body>
 </html>
