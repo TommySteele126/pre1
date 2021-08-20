@@ -437,27 +437,24 @@ color: rgb(24, 24, 43);
                         
                         }
                         
-                        .img-container7{
-                            width: 4.7rem;
-                            height: 4.8rem;
-                            position: relative;
+                        .img-container7:hover{
+                            
                             background: rgb(136, 173, 243);
-                            border-radius: 50%;
-                        
-                            left: 200px;
-                            top: -140px;
+                            transition: all 0.7s ease-in-out;
                             
                         
-                        
-                        
+                           
+                            
                         }
+
+                        
+                        
+                        
                         
                         .brand-img7{
-                        height: 4.2rem;
                         position: relative;
-                        border-radius: 50%;
-                        top: 5px;
-                        margin: auto;
+                        max-width: 100%;
+                        max-width: 8rem;
                         text-align: center;
                         
                         
@@ -484,7 +481,7 @@ color: rgb(24, 24, 43);
                             height: 117px;
                             
                             }
-                            .brand8{ 
+                            .brand7{ 
                                 width: 4rem;
                                 text-align: center;
                                 margin-left: 1rem;
@@ -494,35 +491,35 @@ color: rgb(24, 24, 43);
                             
                             }
                             
-                            .img-container8{
-                                width: 4.7rem;
-                                height: 4.8rem;
-                                position: relative;
+                            .img-container7:hover{
+                                
                                 background: rgb(136, 173, 243);
-                                border-radius: 50%;
-                            
-                                left: 200px;
-                                top: -140px;
+                                transition: all 0.7s ease-in-out;
                                 
                             
-                            
-                            
+                               
+                                
                             }
                             
-                            .brand-img8{
-                            height: 4.2rem;
+                            
+                            
+                            
+                            
+                            .brand-img7{
                             position: relative;
-                            border-radius: 50%;
-                            top: 5px;
-                            margin: auto;
+                            max-width: 100px;
+                            max-width: 8rem;
                             text-align: center;
+                            max-height: 500px;
+                            left: inherit;
+
                             
                             
                             
                             
                             }
                             
-                            #brand-name8{
+                            #brand-name7{
                             font-family: sans-serif;
                             text-transform: capitalize;
                             top: 2.5px; 
@@ -541,7 +538,7 @@ color: rgb(24, 24, 43);
                                 height: 117px;
                                 
                                 }
-                                .brand9{ 
+                                .brand8{ 
                                     width: 4rem;
                                     text-align: center;
                                     margin-left: 1rem;
@@ -551,35 +548,35 @@ color: rgb(24, 24, 43);
                                 
                                 }
                                 
-                                .img-container9{
-                                    width: 4.7rem;
-                                    height: 4.8rem;
-                                    position: relative;
-                                    background: rgb(136, 173, 243);
-                                    border-radius: 50%;
-                                
-                                    left: 200px;
-                                    top: -140px;
+                                .img-container8:hover{
                                     
-                                
-                                
-                                
+                                    background: rgb(136, 173, 243);
+                                    transition: all 0.7s ease-in-out;
+                                    
+                                    /* left: 1200px;
+                                    top: 200px; */
+                        
+                                   
+                                    
                                 }
                                 
-                                .brand-img9{
-                                height: 4.2rem;
+                                
+                                
+                                
+                                
+                                .brand-img8{
                                 position: relative;
-                                border-radius: 50%;
-                                top: 5px;
-                                margin: auto;
+                                max-width: 100%;
+                                max-width: 8rem;
                                 text-align: center;
+                                right: initial;
                                 
                                 
                                 
                                 
                                 }
                                 
-                                #brand-name9{
+                                #brand-name8{
                                 font-family: sans-serif;
                                 text-transform: capitalize;
                                 top: 2.5px; 
@@ -598,7 +595,7 @@ color: rgb(24, 24, 43);
                                     height: 117px;
                                     
                                     }
-                                    .brand10{ 
+                                    .brand9{ 
                                         width: 4rem;
                                         text-align: center;
                                         margin-left: 1rem;
@@ -608,27 +605,24 @@ color: rgb(24, 24, 43);
                                     
                                     }
                                     
-                                    .img-container10{
-                                        width: 4.7rem;
-                                        height: 4.8rem;
-                                        position: relative;
+                                    .img-container9:hover{
+                                        
                                         background: rgb(136, 173, 243);
-                                        border-radius: 50%;
-                                    
-                                        left: 200px;
-                                        top: -140px;
+                                        transition: all 0.7s ease-in-out;
                                         
                                     
-                                    
-                                    
+                                       
+                                        
                                     }
                                     
-                                    .brand-img10{
-                                    height: 4.2rem;
+                                    
+                                    
+                                    
+                                    
+                                    .brand-img9{
                                     position: relative;
-                                    border-radius: 50%;
-                                    top: 5px;
-                                    margin: auto;
+                                    max-width: 100%;
+                                    max-width: 8rem;
                                     text-align: center;
                                     
                                     
@@ -636,7 +630,7 @@ color: rgb(24, 24, 43);
                                     
                                     }
                                     
-                                    #brand-name10{
+                                    #brand-name9{
                                     font-family: sans-serif;
                                     text-transform: capitalize;
                                     top: 2.5px; 
@@ -655,7 +649,7 @@ color: rgb(24, 24, 43);
                                         height: 117px;
                                         
                                         }
-                                        .brand11{ 
+                                        .brand10{ 
                                             width: 4rem;
                                             text-align: center;
                                             margin-left: 1rem;
@@ -665,27 +659,24 @@ color: rgb(24, 24, 43);
                                         
                                         }
                                         
-                                        .img-container11{
-                                            width: 4.7rem;
-                                            height: 4.8rem;
-                                            position: relative;
+                                        .img-container10:hover{
+                                            
                                             background: rgb(136, 173, 243);
-                                            border-radius: 50%;
-                                        
-                                            left: 200px;
-                                            top: -140px;
+                                            transition: all 0.7s ease-in-out;
                                             
                                         
-                                        
-                                        
+                                           
+                                            
                                         }
                                         
-                                        .brand-img11{
-                                        height: 4.2rem;
+                                        
+                                        
+                                        
+                                        
+                                        .brand-img10{
                                         position: relative;
-                                        border-radius: 50%;
-                                        top: 5px;
-                                        margin: auto;
+                                        max-width: 100%;
+                                        max-width: 8rem;
                                         text-align: center;
                                         
                                         
@@ -693,7 +684,7 @@ color: rgb(24, 24, 43);
                                         
                                         }
                                         
-                                        #brand-name11{
+                                        #brand-name10{
                                         font-family: sans-serif;
                                         text-transform: capitalize;
                                         top: 2.5px; 
@@ -712,7 +703,7 @@ color: rgb(24, 24, 43);
                                             height: 117px;
                                             
                                             }
-                                            .brand12{ 
+                                            .brand11{ 
                                                 width: 4rem;
                                                 text-align: center;
                                                 margin-left: 1rem;
@@ -722,27 +713,24 @@ color: rgb(24, 24, 43);
                                             
                                             }
                                             
-                                            .img-container12{
-                                                width: 4.7rem;
-                                                height: 4.8rem;
-                                                position: relative;
+                                            .img-container11:hover{
+                                                
                                                 background: rgb(136, 173, 243);
-                                                border-radius: 50%;
-                                            
-                                                left: 200px;
-                                                top: -140px;
+                                                transition: all 0.7s ease-in-out;
                                                 
                                             
-                                            
-                                            
+                                               
+                                                
                                             }
                                             
-                                            .brand-img12{
-                                            height: 4.2rem;
+                                            
+                                            
+                                            
+                                            
+                                            .brand-img11{
                                             position: relative;
-                                            border-radius: 50%;
-                                            top: 5px;
-                                            margin: auto;
+                                            max-width: 100%;
+                                            max-width: 8rem;
                                             text-align: center;
                                             
                                             
@@ -750,7 +738,7 @@ color: rgb(24, 24, 43);
                                             
                                             }
                                             
-                                            #brand-name12{
+                                            #brand-name11{
                                             font-family: sans-serif;
                                             text-transform: capitalize;
                                             top: 2.5px; 
@@ -769,7 +757,7 @@ color: rgb(24, 24, 43);
                                                 height: 117px;
                                                 
                                                 }
-                                                .brand13{ 
+                                                .brand12{ 
                                                     width: 4rem;
                                                     text-align: center;
                                                     margin-left: 1rem;
@@ -779,27 +767,24 @@ color: rgb(24, 24, 43);
                                                 
                                                 }
                                                 
-                                                .img-container13{
-                                                    width: 4.7rem;
-                                                    height: 4.8rem;
-                                                    position: relative;
+                                                .img-container12:hover{
+                                                    
                                                     background: rgb(136, 173, 243);
-                                                    border-radius: 50%;
-                                                
-                                                    left: 200px;
-                                                    top: -140px;
+                                                    transition: all 0.7s ease-in-out;
                                                     
                                                 
-                                                
-                                                
+                                                   
+                                                    
                                                 }
                                                 
-                                                .brand-img13{
-                                                height: 4.2rem;
+                                                
+                                                
+                                                
+                                                
+                                                .brand-img12{
                                                 position: relative;
-                                                border-radius: 50%;
-                                                top: 5px;
-                                                margin: auto;
+                                                max-width: 100%;
+                                                max-width: 8rem;
                                                 text-align: center;
                                                 
                                                 
@@ -807,7 +792,7 @@ color: rgb(24, 24, 43);
                                                 
                                                 }
                                                 
-                                                #brand-name13{
+                                                #brand-name12{
                                                 font-family: sans-serif;
                                                 text-transform: capitalize;
                                                 top: 2.5px; 
@@ -836,27 +821,24 @@ color: rgb(24, 24, 43);
                                                     
                                                     }
                                                     
-                                                    .img-container13{
-                                                        width: 4.7rem;
-                                                        height: 4.8rem;
-                                                        position: relative;
+                                                    .img-container13:hover{
+                                                        
                                                         background: rgb(136, 173, 243);
-                                                        border-radius: 50%;
-                                                    
-                                                        left: 200px;
-                                                        top: -140px;
+                                                        transition: all 0.7s ease-in-out;
                                                         
                                                     
-                                                    
-                                                    
+                                                       
+                                                        
                                                     }
                                                     
+                                                    
+                                                    
+                                                    
+                                                    
                                                     .brand-img13{
-                                                    height: 4.2rem;
                                                     position: relative;
-                                                    border-radius: 50%;
-                                                    top: 5px;
-                                                    margin: auto;
+                                                    max-width: 100%;
+                                                    max-width: 8rem;
                                                     text-align: center;
                                                     
                                                     
@@ -872,5 +854,58 @@ color: rgb(24, 24, 43);
                                                     text-align: center;
                                                     color: rgb(24, 24, 43);
                                                     }
-        
-
+                                                    #categories{
+     
+                                                        margin: 0.5rem 0;
+                                                        display: flex;
+                                                        padding: 0.5rem 0.3rem ;
+                                                        background:rgb(255, 255, 255);
+                                                        top: 58px;
+                                                        position: relative;
+                                                        height: 117px;
+                                                        
+                                                        }
+                                                        .brand14{ 
+                                                            width: 4rem;
+                                                            text-align: center;
+                                                            margin-left: 1rem;
+                                                            cursor: pointer;
+                                                        
+                                                        
+                                                        
+                                                        }
+                                                        
+                                                        .img-container14:hover{
+                                                            
+                                                            background: rgb(136, 173, 243);
+                                                            transition: all 0.7s ease-in-out;
+                                                            
+                                                        
+                                                           
+                                                            
+                                                        }
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        .brand-img14{
+                                                        position: relative;
+                                                        max-width: 100%;
+                                                        max-width: 8rem;
+                                                        text-align: center;
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        }
+                                                        
+                                                        #brand-name14{
+                                                        font-family: sans-serif;
+                                                        text-transform: capitalize;
+                                                        top: 2.5px; 
+                                                        margin: 0.6rem;
+                                                        text-align: center;
+                                                        color: rgb(24, 24, 43);
+                                                        }
+                                                       
