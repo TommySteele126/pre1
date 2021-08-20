@@ -441,7 +441,9 @@ color: rgb(24, 24, 43);
                             
                             background: rgb(136, 173, 243);
                             transition: all 0.7s ease-in-out;
-                            
+
+                             left: 1200px;
+                            top: -360px;
                         
                            
                             
@@ -456,6 +458,8 @@ color: rgb(24, 24, 43);
                         max-width: 100%;
                         max-width: 8rem;
                         text-align: center;
+                        top: 5px;
+                        
                         
                         
                         
@@ -553,8 +557,8 @@ color: rgb(24, 24, 43);
                                     background: rgb(136, 173, 243);
                                     transition: all 0.7s ease-in-out;
                                     
-                                    /* left: 1200px;
-                                    top: 200px; */
+                                    left: 1200px;
+                                    top: 200px;
                         
                                    
                                     
@@ -570,6 +574,7 @@ color: rgb(24, 24, 43);
                                 max-width: 8rem;
                                 text-align: center;
                                 right: initial;
+                                
                                 
                                 
                                 

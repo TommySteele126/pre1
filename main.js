@@ -1,8 +1,8 @@
 const data = [
   {
     id: "",
-    img: "hero.jpg",
-    name: "Deku",
+    img: "",
+    name: "",
     save: "",
     delivery: "In 3 - 4 days",
     ItemInCart: false,
